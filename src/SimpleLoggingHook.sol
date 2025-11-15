@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.24;
+pragma solidity ^0.8.26;
 
 import {IHooks} from "uniswap-v4-core/interfaces/IHooks.sol";
 import {PoolKey} from "uniswap-v4-core/types/PoolKey.sol";
